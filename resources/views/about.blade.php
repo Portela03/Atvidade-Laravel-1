@@ -20,7 +20,7 @@
         <h2 class="text-2xl font-bold mb-2">Pátio</h2>
         <p class="text-gray-700 mb-6">O pátio da instituição é um verdadeiro refúgio. Árvores, flores e plantas dão ao ambiente uma atmosfera de serenidade e frescor. É um espaço que convida os alunos a desfrutarem do ar livre enquanto se dedicam às suas atividades acadêmicas e sociais. O pátio principal também foi projetado para promover a interação e o convívio entre os estudantes. Com mesas distribuídas, o espaço oferece oportunidades para uma variedade de atividades sociais e recreativas, desde jogos de tabuleiro que estimulam o raciocínio e a cooperação, até partidas acirradas de pingue-pongue e pebolim que promovem a competição saudável e o espírito de equipe.</p>
         
-        <!-- Adicione aqui as informações sobre a Cozinha, Salas de Aula, Biblioteca, Laboratórios, Prédio Administrativo, Sala Maker, e Quadras conforme necessário -->
+       
 
         <h2 class="text-2xl font-bold mb-2">Sala Maker</h2>
         <p class="text-gray-700 mb-6">Com seu espaço voltado à tecnologia e construção de projetos, a Sala Maker possui notebooks, impressoras 3D, drones, óculos de realidade aumentada e ferramentas para a construção de projetos manuais. Além de ser um ótimo ambiente para estudar com os colegas, o ambiente possui uma diversidade de mesas e cadeiras dispostas, assim comportando um bom número de alunos e seus respectivos projetos.</p>
