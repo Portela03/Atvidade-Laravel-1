@@ -12,7 +12,7 @@
         <div class="flex items-center justify-between h-16">
             <!-- Logo -->
             <div class="flex-shrink-0">
-                <a href="#" class="flex items-center">
+                <a href="{{ url('home') }}" class="flex items-center">
                     <img class="h-8 w-auto" src="https://www.eteczonaleste.com.br/wp-content/uploads/2023/11/logo-etec.png" alt="Logo">
                 </a>
             </div>
@@ -28,7 +28,7 @@
             <div id="navLinks" class="hidden md:flex md:items-center md:space-x-4">
                 <a href="{{ url('/home') }}" class="text-gray-700 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Início</a>
                 <a href="{{ url('about') }}"  class="text-gray-700 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Sobre</a>
-                <a href="{{ url('/services') }}" class="text-gray-700 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Serviços</a>
+                <a href="{{ url('/services') }}" class="text-gray-700 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Notícias </a>
                 <a href="{{ url('/contact') }}" class="text-gray-700 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Contato</a>
                 <a href="{{ url('/dashboard') }}" class="text-gray-700 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium ">Dashboard</a>
             </div>
