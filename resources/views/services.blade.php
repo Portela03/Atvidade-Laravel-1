@@ -11,7 +11,7 @@
 <body class="text-white">
     @include('layouts.navbar')
 
-    <!-- Cabeçalho dos cursos -->
+    
     <div class="text-black py-8 px-4 text-center">
     <h1 class="text-3xl font-bold">Inscrições Abertas para os Cursos!</h1>
     <p class="mt-2">A ETEC Zona Leste está com as inscrições abertas para seus cursos técnicos e Novotec. Esta é a oportunidade perfeita para você se capacitar em uma área específica e impulsionar sua carreira profissional.</p>
@@ -20,7 +20,7 @@
 </div>
 
     <div class="flex flex-wrap justify-center gap-8">
-        <!-- Curso Técnico em Desenvolvimento de Sistemas -->
+       
         <div class="max-w-sm rounded overflow-hidden shadow-lg text-black order-1">
             <img src="https://www.eteczonaleste.com.br/wp-content/uploads/2023/08/123123-1.webp" alt="card-image" />
             <div class="px-6 py-4">
@@ -35,8 +35,7 @@
                 </button>
             </div>
         </div>
-        <!-- Outros cursos aqui -->
-        <!-- Curso Técnico em Serviços Jurídicos -->
+        
         <div class="max-w-sm rounded overflow-hidden shadow-lg text-black order-2">
             <img src="https://www.eteczonaleste.com.br/wp-content/uploads/2023/11/tingey-injury-law-firm-yCdPU73kGSc-unsplash-scaled.jpg" alt="card-image" />
             <div class="px-6 py-4">
@@ -51,7 +50,7 @@
                 </button>
             </div>
         </div>
-        <!-- Curso Recursos Humanos -->
+        
         <div class="max-w-sm rounded overflow-hidden shadow-lg text-black order-3">
             <img src="https://www.eteczonaleste.com.br/wp-content/uploads/2023/11/campaign-creators-gMsnXqILjp4-unsplash-scaled.jpg" alt="card-image" />
             <div class="px-6 py-4">
@@ -66,8 +65,7 @@
                 </button>
             </div>
         </div>
-        <!-- Mais cursos aqui -->
-        <!-- Curso Técnico em Logística -->
+       
         <div class="max-w-sm rounded overflow-hidden shadow-lg text-black order-4">
             <img src="https://www.eteczonaleste.com.br/wp-content/uploads/2023/11/tyler-franta-iusJ25iYu1c-unsplash-scaled.jpg" alt="card-image" />
             <div class="px-6 py-4">
@@ -82,8 +80,7 @@
                 </button>
             </div>
         </div>
-        <!-- Outros cursos aqui -->
-        <!-- Curso Técnico em Contabilidade -->
+       
         <div class="max-w-sm rounded overflow-hidden shadow-lg text-black order-5">
             <img src="https://www.eteczonaleste.com.br/wp-content/uploads/2023/11/charlesdeluvio-OqxPH8c1UFE-unsplash-1-1.jpg" alt="card-image" />
             <div class="px-6 py-4">
@@ -98,8 +95,7 @@
                 </button>
             </div>
         </div>
-        <!-- Mais cursos aqui -->
-        <!-- Curso Técnico em Administração -->
+        
         <div class="max-w-sm rounded overflow-hidden shadow-lg text-black order-6">
             <img src="https://www.eteczonaleste.com.br/wp-content/uploads/2023/11/tyler-franta-iusJ25iYu1c-unsplash-scaled.jpg" alt="card-image" />
             <div class="px-6 py-4">
@@ -114,8 +110,7 @@
                 </button>
             </div>
         </div>
-        <!-- Mais cursos aqui -->
-        <!-- Curso Novotec Desenvolvimento de Sistemas AMS -->
+       
         <div class="max-w-sm rounded overflow-hidden shadow-lg text-black order-7">
             <img src="https://www.eteczonaleste.com.br/wp-content/uploads/2023/08/open-p-tech-hero-3.jpg" alt="card-image" />
             <div class="px-6 py-4">
@@ -130,7 +125,7 @@
                 </button>
             </div>
         </div>
-        <!-- Mais cursos aqui -->
+        
     </div>
     <footer>
     @include('layouts.footer')
